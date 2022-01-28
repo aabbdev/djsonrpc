@@ -1,5 +1,5 @@
 {
-  "name": "djsonrpc",
+  "name": "@diffty/djsonrpc",
   "version": "0.1.0",
   "main": "index.js",
   "license": "Apache-2.0",
